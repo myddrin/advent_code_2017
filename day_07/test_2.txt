@@ -1,0 +1,5 @@
+havc (4)
+padx (3) -> havc, pbga
+pbga (4)
+root (1) -> tknt
+tknt (2) -> padx
